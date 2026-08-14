@@ -9,3 +9,7 @@ Under the direction of Professor Karen Chapple.
 The project is a profile of a portion of the Oakwood Village neighbourhood in York, Toronto. The census tract 5350162.00 represents this portion. In 2021, the area had a population of 4846 people. Data is compared cross-temporally (2006 vs 2021) and within nested scales (the tract in Oakwood vs the Toronto CMA).
 
 Conclusions are made by applying **descriptive statistics** to the Statistics Canada Canadian Census (2006 & 2021).
+
+## Project links
+* [Project paper](Yasmine%20Al-Mahood_GGR377_Census%20Analysis.pdf)
+* [Guidelines](GGR377_Census%20Analysis%20Guidelines.pdf)
