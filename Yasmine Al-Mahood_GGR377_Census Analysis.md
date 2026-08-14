@@ -2,7 +2,7 @@
 
 This is a profile on census tract number 5350162.00 in Toronto, Ontario (see Figure 1). The tract is towards the northwest side of Toronto. The tract is part of the City of Toronto’s Ward 12, Toronto-St. Paul’s. The tract is part of the York neighborhood Oakwood Village. It is enclosed by Dufferin St., Rogers Rd., Oakwood Ave., and Vaughn Rd. The northwest corner of the tract intersects with Eglinton Ave. W. Census tract 5350162.00 hereafter will be nicknamed “Oakwood” or “the tract.” The Toronto CMA region will be referred to as “Toronto” or “the city.”
 
-![](images/image1)
+![](images/image6.png)
 
 **Figure 1\.** Map of Census Tract 5350162.00. (Source: StatCan).
 
@@ -63,9 +63,9 @@ There are less visible minorities in Oakwood than Toronto. In 2021, the tract ha
 
 The distribution of visible minorities in Oakwood is very different from Toronto. Figure 2A shows that the groups that decreased drastically from Toronto to Oakwood are South Asian (-81.6% percent difference), Chinese (-78.4%), and Arab (-70.4%). Figure 2B shows that the groups that increased drastically are Latin American (181.6%), Filipino (111.2%), and Black (68.7%). These three groups also have the highest portions within visible minorities.
 
-![](images/image2)
+![](images/image5.png)
 
-![](images/image3)
+![](images/image4.png)
 
 **Figure 2\.** Visible minority status distribution in Oakwood and Toronto in 2021\. **(A)** Top three biggest negative point difference (Oakwood \< Toronto). **(B)** Top three biggest positive point difference (Oakwood \> Toronto).
 
@@ -81,19 +81,20 @@ The 2021 median before-tax total income of households in Oakwood is $77,000. Thi
 
 Figure 3A shows how lower income groups in Oakwood have drastically decreased from 2006 to 2021\. Compared to Figure 3B, the point difference in change for the income groups encompassing $10k-39k is greater in the tract over the city. Figure 3A also shows the lower income distribution that the medians suggest. Though those in the lower brackets have decreased, and in proportions larger than in Toronto, there remains a consistent inequality in Oakwood in 2021 compared to Toronto, veering to the lower income. The 20k-89k range of income encompasses 58.9% of the distribution in the tract; in the city, it is 48.2%. Excluding extremes, the largest group in the tract in 2021 is the 20k-29k group, at 10.7% of distribution. Toronto has no clear maximum income group because they are mostly equally distributed from 20k-89k.
 
-![](images/image4)![](images/image5)
+![](images/image1.png)
+![](images/image8.png)
 
 **Figure 3\.** After-tax income group distribution for median categories, including the point difference, from 2006 to 2021\. **(A)** In Oakwood. **(B)** In Toronto.
 
 Now accounting for the extremes of the income groups, “100k and over” and “under 10k.” The 100k and over income group sees a significant increase in both the tract (31.9% of distribution) and the city (40.6%). Figure 4 illustrates this increase, as well as shows that the gap between the tract and city in this distribution has decreased from 2006 to 2021\.
 
-![](images/image6)
+![](images/image5.png)
 
 **Figure 4\.** After-tax income group distribution of the $100,000 and over category from 2006 to 2021, in Oakwood and Toronto. Point difference illustrated.
 
 For the under 10k group, Figure 5 shows an alternate split of series by region rather than year because the more prominent difference is across region rather than time, since the proportion in Oakwood and Toronto remains almost equal across the years. For both regions, the proportion of those in the under 10k income group decreased from 2006 to 2021\. In Oakwood, notably, the proposition decrease was greater by 1.0 percent point.
 
-![](images/image7)
+![](images/image3.png)
 
 **Figure 5\.** After-tax income group distribution of the Under $10,000 category in Oakwood and Toronto, from 2006 to 2021\. Point difference illustrated.
 
@@ -132,7 +133,7 @@ The occupational distribution is similar comparing the tract and the city in 202
 
 Considering Figure 7, the most prominent regional difference is that for senior and legislative management occupations (74.5% decrease) and sales occupations (49.0% increase). From 2006 to 2021, senior and legislative management occupations drastically decreased in both regions.
 
-![](images/image8)
+![](images/image10.png)
 
 **Figure 6\.** Occupation distribution in Oakwood, in 2021\. Abridged, displaying occupation groups with five of the biggest percent differences. Percent point difference from Toronto distribution is illustrated.
 
@@ -140,7 +141,7 @@ The industry distribution in 2021 Oakwood ranks (1) retail, (2) health care and 
 
 From 2006 to 2021, the real estate industry experienced a huge increase in the tract (257.2% increase from 0.9% to 3.3%). The difference between Oakwood and Toronto in construction was greater in 2006 (187.2% increase) than in 2021 (57.7% increase).
 
-![](images/image9)
+![](images/image2.png)
 
 **Figure 7\.** Industry distribution in Oakwood, in 2021\. Abridged, displaying industry groups with ten most significant percent differences. Percent point difference from Toronto distribution is illustrated.
 
@@ -150,7 +151,7 @@ From 2006 to 2021, the real estate industry experienced a huge increase in the t
 
 Figure 8 illustrates the distribution of occupied structural types of dwellings in Oakwood and Toronto from 2006 to 2021\. Temporally, Oakwood has seen an increase in both single and semi-detached houses and apartments with 1-4 storeys. Apartments with 5+ stories in Oakwood decreased drastically in occupation from 2006 to 2021, a 43.7% decrease; Toronto overall saw an increase of 15.6%.
 
-![](images/image10)
+![](images/image9.png)
 
 **Figure 8\.** Abridged distribution of structural types of dwellings in Oakwood and Toronto in 2006 and 2021\.
 
